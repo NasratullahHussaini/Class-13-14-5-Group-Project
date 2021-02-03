@@ -3,4 +3,4 @@
 Group Project
 
 1. [Oksana](https://github.com/OksanaShulha)
-2. [Nasratullah](https://github.com/NasratullahHussaini/NasratullahHussaini.github.io)
+2. [Nasratullah](./nasratullah.md)
