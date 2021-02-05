@@ -1,6 +1,7 @@
 # Class-13-14-5-Group-Project
+![TeamPic](https://github.com/NasratullahHussaini/Class-13-14-5-Group-Project/blob/main/TeamPic%20resized.jpg)  
 
-Group Project
+## Meet our team
 
 1. [Oksana](./Oksana.md)
 2. [Irina](./Irina.md)
