@@ -12,4 +12,4 @@
 
 - **Degree:** Bachelor in Marketing
 
-> > ## **_Thank you HackYourFuture_** :heart:
+> > ## **_Thank you HackYourFuture_**
