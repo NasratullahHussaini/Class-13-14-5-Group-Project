@@ -1,4 +1,4 @@
-## To arrange our team calls in [![SlACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://hackyourfuturebe.slack.com/archives/C01HUQHUJGP) please specify when you are free:
+## Free time of participants for organising team-calls in [![SlACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://hackyourfuturebe.slack.com/archives/C01HUQHUJGP)
 
 | Day       | OksanaShulha |  IrinaSing  | Enakhimionsam | NasratullahHussaini | radwan-m | Cyngyz |
 | :-------- | :----------: | :---------: | :-----------: | :-----------------: | :------: | -----: |
